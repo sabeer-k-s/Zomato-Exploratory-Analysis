@@ -1,4 +1,5 @@
 # Zomato Data Analysis
+![Project Overview](zomato_cover.png)
 
 Welcome to the Zomato Data Analysis repository! This project explores the Zomato dataset to uncover insights about restaurants, cuisines, and customer ratings across various countries.
 
