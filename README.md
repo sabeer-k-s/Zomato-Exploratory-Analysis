@@ -23,20 +23,26 @@ The dataset includes:
 - Ratings and reviews
 - Country information
 
+## Key Insights
+
+- **Country Distribution**: Most records are from India, followed by the USA and the UK.
+![observation1](images/observation1.png)
+- **Ratings**: Not Rated count is very high,The majority of ratings fall between 3.0 to 3.6.
+![observation2](images/observation2.png)
+- **Online Delivery**: Available mainly in India and the UAE.
+![observation3](images/observation3.png)
+- **Top Cities**: New Delhi, Gurgaon, and Noida.
+  
+     ![observation4](images/observation4.png)
+- **Popular Cuisines**: North Indian is the most ordered cuisine.
+![observation5](images/observation5.png)
+
 ## Installation
 
 - Clone the repository:
    ```sh
    git clone https://github.com/sabeer-k-s/Zomato-Exploratory-Analysis.git
    ```
-
-## Key Insights
-
-- **Country Distribution**: Most records are from India, followed by the USA and the UK.
-- **Ratings**: Not Rated count is very high,The majority of ratings fall between 3.0 to 3.6.
-- **Online Delivery**: Available mainly in India and the UAE.
-- **Top Cities**: New Delhi, Gurgaon, and Noida.
-- **Popular Cuisines**: North Indian is the most ordered cuisine.
 
 ## Contributing
 
