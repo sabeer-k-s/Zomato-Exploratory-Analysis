@@ -33,7 +33,7 @@ The dataset includes:
 ## Key Insights
 
 - **Country Distribution**: Most records are from India, followed by the USA and the UK.
-- **Ratings**: The majority of ratings fall between 3.0 to 3.6.
+- **Ratings**: Not Rated count is very high,The majority of ratings fall between 3.0 to 3.6.
 - **Online Delivery**: Available mainly in India and the UAE.
 - **Top Cities**: New Delhi, Gurgaon, and Noida.
 - **Popular Cuisines**: North Indian is the most ordered cuisine.
